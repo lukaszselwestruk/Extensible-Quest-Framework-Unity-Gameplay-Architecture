@@ -1,4 +1,4 @@
-# Extensible-Quest-Framework-Unity-Gameplay-Architecture
+# Extensible Quest Framework Unity Gameplay Architecture
 
 A modular Unity quest system built around polymorphic tasks, composable task groups, independent rewards, and event-driven progression.
 
